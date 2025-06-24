@@ -13,5 +13,5 @@
 💼 He trabajado en empresas como ALSEA, Coppel/BanCoppel y SODIMAC desarrollando integraciones en tiempo real con APIs externas (Mercado Pago, Rappi, Uber Eats) y manteniendo servicios de alto tráfico y criticidad.
 
 📫 Puedes contactarme en:
-- [LinkedIn](https://www.linkedin.com/in/fabian-alvarez-java)
+- [LinkedIn](https://www.linkedin.com/in/alvarezrosas/)
 - ing.alvarezrosas@gmail.com
